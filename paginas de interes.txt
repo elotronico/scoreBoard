@@ -1,0 +1,18 @@
+Paginas de Interes:
+
+https://tronixlabs.com.au/ws2812b/
+
+SK6812  3535 Mas pequeño
+
+Aliexprees:
+https://www.aliexpress.com/item/1m-4m-5m-SK6812-similar-ws2812b-RGBW-4-in-1-30-60-144-leds-pixles-m/32664925043.html?spm=2114.search0204.3.1.C0dREB&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10065_10151_10344_10068_10345_10342_10547_10343_10340_10341_10548_10542_10541_10562_10084_10083_10307_10301_10303_10176_10539_10312_10059_10313_10314_10184_10534_10533_100031_10604_10603_10103_10594_10557_10596_10595_10142_10107,searchweb201603_25,ppcSwitch_7_ppcChannel&btsid=638c3827-87c9-4fe7-b878-da83fa05d8bc&algo_expid=248c2d90-46d8-4f32-a6be-193e6f4942e4-0&algo_pvid=248c2d90-46d8-4f32-a6be-193e6f4942e4&rmStoreLevelAB=2
+
+Proyecto de marcador con arduino:
+http://unpuntilloalambre.blogspot.com.es/2013/06/marcador-padel-tenis-con-arduino.html
+
+Neopixel AdaFruit
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
+https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
+
+Explicacion varias librerias para led strip addressable
+http://forum.arduino.cc/index.php?topic=203084.0
